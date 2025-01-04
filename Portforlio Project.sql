@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 select *
 from PortforlioProject..CovidDeaths
 where continent is not null
